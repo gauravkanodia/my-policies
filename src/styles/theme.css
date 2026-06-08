@@ -1,0 +1,10 @@
+@theme {
+  --color-primary: #1e45e3;
+  --color-secondary: #2b3fad;
+  --color-accent: #ffe491;
+  --color-core: #312520;
+  --color-core-muted: #5b5b5b;
+  --color-border: #e5e5e5;
+  --color-core-surface: #f3f3f3;
+  --color-surface: #ffffff;
+}

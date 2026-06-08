@@ -3,36 +3,58 @@
     "policyNumber": "726100029411",
     "policyStart": "2026-05-01",
     "policyEnd": "2026-05-11",
+    "primaryTravellerFirstname": "Rahul",
+    "primaryTravellerLastName": "Sharma",
+    "primaryTravellerPhoneNumber": "9876543210",
     "status": "Active",
-    "destinations": [{ "code": "NZ", "name": "New Zealand" }],
+    "destinations": [
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      }
+    ],
     "type": "Single Trip",
     "planName": "International Comprehensive",
     "excess": 250,
     "pdsUrl": "https://example.com/policies/726100029411/pds",
-    "certificateUrl": "https://example.com/policies/726100029411/certificate",
-    "claimUrl": "https://example.com/claims/726100029411",
-    "managePolicyUrl": "https://example.com/policies/726100029411/manage"
+    "certificateUrl": "https://example.com/policies/726100029411/certificate"
+    
   },
   {
     "policyNumber": "726100029412",
     "policyStart": "2026-01-15",
     "policyEnd": "2026-01-28",
+    "primaryTravellerFirstname": "Priya",
+    "primaryTravellerLastName": "Verma",
+    "primaryTravellerPhoneNumber": "9876543211",
     "status": "Active",
-    "destinations": [{ "code": "AU", "name": "Australia" }],
+    "destinations": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      }
+    ],
     "type": "Single Trip",
     "planName": "International Comprehensive",
     "excess": 100,
     "pdsUrl": "https://example.com/policies/726100029412/pds",
-    "certificateUrl": "https://example.com/policies/726100029412/certificate",
-    "claimUrl": "https://example.com/claims/726100029412",
-    "managePolicyUrl": "https://example.com/policies/726100029412/manage"
+    "certificateUrl": "https://example.com/policies/726100029412/certificate"
+
   },
   {
     "policyNumber": "726100029413",
     "policyStart": "2025-12-24",
     "policyEnd": "2026-12-23",
+    "primaryTravellerFirstname": "Amit",
+    "primaryTravellerLastName": "Gupta",
+    "primaryTravellerPhoneNumber": "9876543212",
     "status": "Active",
-    "destinations": [{ "code": "GB", "name": "United Kingdom" }],
+    "destinations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
     "type": "Annual",
     "planName": "Annual Multi-trip",
     "excess": 250,
@@ -46,8 +68,16 @@
     "policyNumber": "726100029414",
     "policyStart": "2026-02-05",
     "policyEnd": "2026-02-18",
+    "primaryTravellerFirstname": "Neha",
+    "primaryTravellerLastName": "Singh",
+    "primaryTravellerPhoneNumber": "9876543213",
     "status": "Active",
-    "destinations": [{ "code": "JP", "name": "Japan" }],
+    "destinations": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
     "type": "Single Trip",
     "planName": "Adventure Cover",
     "excess": 150,
@@ -60,8 +90,16 @@
     "policyNumber": "726100029415",
     "policyStart": "2026-03-10",
     "policyEnd": "2027-03-09",
+    "primaryTravellerFirstname": "Arjun",
+    "primaryTravellerLastName": "Mehta",
+    "primaryTravellerPhoneNumber": "9876543214",
     "status": "Active",
-    "destinations": [{ "code": "SG", "name": "Singapore" }],
+    "destinations": [
+      {
+        "code": "SG",
+        "name": "Singapore"
+      }
+    ],
     "type": "Annual",
     "planName": "Annual Multi-trip",
     "excess": 500,
@@ -76,360 +114,512 @@
     "policyStart": "2026-04-08",
     "policyEnd": "2026-04-21",
     "status": "Active",
-    "destinations": [{ "code": "IN", "name": "India" }],
+    "destinations": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
     "type": "Single Trip",
     "planName": "Domestic Plus",
     "excess": 100,
     "pdsUrl": "https://example.com/policies/726100029416/pds",
     "certificateUrl": "https://example.com/policies/726100029416/certificate",
     "claimUrl": "https://example.com/claims/726100029416",
-    "managePolicyUrl": "https://example.com/policies/726100029416/manage"
+    "managePolicyUrl": "https://example.com/policies/726100029416/manage",
+    "primaryTravellerFirstname": "Rahul",
+    "primaryTravellerLastName": "Sharma",
+    "primaryTravellerPhoneNumber": "9876543210"
   },
   {
     "policyNumber": "726100029417",
     "policyStart": "2026-05-20",
     "policyEnd": "2027-05-19",
     "status": "Active",
-    "destinations": [{ "code": "US", "name": "United States" }],
+    "destinations": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
     "type": "Annual",
     "planName": "Annual Multi-trip",
     "excess": 200,
     "maxTripDuration": 45,
     "pdsUrl": "https://example.com/policies/726100029417/pds",
     "certificateUrl": "https://example.com/policies/726100029417/certificate",
-    "claimUrl": "https://example.com/claims/726100029417",
-    "managePolicyUrl": "https://example.com/policies/726100029417/manage"
+    "primaryTravellerFirstname": "Priya",
+    "primaryTravellerLastName": "Verma",
+    "primaryTravellerPhoneNumber": "9876543211"
   },
   {
     "policyNumber": "726100029418",
     "policyStart": "2026-06-12",
     "policyEnd": "2026-06-26",
     "status": "Active",
-    "destinations": [{ "code": "CA", "name": "Canada" }],
+    "destinations": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      }
+    ],
     "type": "Single Trip",
     "planName": "International Comprehensive",
     "excess": 250,
     "pdsUrl": "https://example.com/policies/726100029418/pds",
     "certificateUrl": "https://example.com/policies/726100029418/certificate",
-    "claimUrl": "https://example.com/claims/726100029418",
-    "managePolicyUrl": "https://example.com/policies/726100029418/manage"
+    "primaryTravellerFirstname": "Amit",
+    "primaryTravellerLastName": "Gupta",
+    "primaryTravellerPhoneNumber": "9876543212"
   },
   {
     "policyNumber": "726100029419",
     "policyStart": "2026-07-01",
     "policyEnd": "2027-06-30",
     "status": "Active",
-    "destinations": [{ "code": "FR", "name": "France" }],
+    "destinations": [
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
     "type": "Annual",
     "planName": "Annual Multi-trip",
     "excess": 150,
     "maxTripDuration": 30,
     "pdsUrl": "https://example.com/policies/726100029419/pds",
     "certificateUrl": "https://example.com/policies/726100029419/certificate",
-    "claimUrl": "https://example.com/claims/726100029419",
-    "managePolicyUrl": "https://example.com/policies/726100029419/manage"
+    "primaryTravellerFirstname": "Neha",
+    "primaryTravellerLastName": "Singh",
+    "primaryTravellerPhoneNumber": "9876543213"
   },
   {
     "policyNumber": "726100029420",
     "policyStart": "2026-08-14",
     "policyEnd": "2026-08-27",
     "status": "Active",
-    "destinations": [{ "code": "DE", "name": "Germany" }],
+    "destinations": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      }
+    ],
     "type": "Single Trip",
     "planName": "Adventure Cover",
     "excess": 200,
     "pdsUrl": "https://example.com/policies/726100029420/pds",
     "certificateUrl": "https://example.com/policies/726100029420/certificate",
-    "claimUrl": "https://example.com/claims/726100029420",
-    "managePolicyUrl": "https://example.com/policies/726100029420/manage"
+    "primaryTravellerFirstname": "Arjun",
+    "primaryTravellerLastName": "Mehta",
+    "primaryTravellerPhoneNumber": "9876543214"
   },
-{
-  "policyNumber": "726100029421",
-  "policyStart": "2026-09-02",
-  "policyEnd": "2027-09-01",
-  "status": "Active",
-  "destinations": [{ "code": "IT", "name": "Italy" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 250,
-  "maxTripDuration": 60,
-  "pdsUrl": "https://example.com/policies/726100029421/pds",
-  "certificateUrl": "https://example.com/policies/726100029421/certificate",
-  "claimUrl": "https://example.com/claims/726100029421",
-  "managePolicyUrl": "https://example.com/policies/726100029421/manage"
-},
-{
-  "policyNumber": "726100029422",
-  "policyStart": "2026-09-15",
-  "policyEnd": "2026-09-28",
-  "status": "Active",
-  "destinations": [{ "code": "ES", "name": "Spain" }],
-  "type": "Single Trip",
-  "planName": "International Comprehensive",
-  "excess": 100,
-  "pdsUrl": "https://example.com/policies/726100029422/pds",
-  "certificateUrl": "https://example.com/policies/726100029422/certificate",
-  "claimUrl": "https://example.com/claims/726100029422",
-  "managePolicyUrl": "https://example.com/policies/726100029422/manage"
-},
-{
-  "policyNumber": "726100029423",
-  "policyStart": "2026-10-01",
-  "policyEnd": "2027-09-30",
-  "status": "Active",
-  "destinations": [{ "code": "TH", "name": "Thailand" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 150,
-  "maxTripDuration": 45,
-  "pdsUrl": "https://example.com/policies/726100029423/pds",
-  "certificateUrl": "https://example.com/policies/726100029423/certificate",
-  "claimUrl": "https://example.com/claims/726100029423",
-  "managePolicyUrl": "https://example.com/policies/726100029423/manage"
-},
-{
-  "policyNumber": "726100029424",
-  "policyStart": "2026-10-12",
-  "policyEnd": "2026-10-25",
-  "status": "Active",
-  "destinations": [{ "code": "MY", "name": "Malaysia" }],
-  "type": "Single Trip",
-  "planName": "Adventure Cover",
-  "excess": 200,
-  "pdsUrl": "https://example.com/policies/726100029424/pds",
-  "certificateUrl": "https://example.com/policies/726100029424/certificate",
-  "claimUrl": "https://example.com/claims/726100029424",
-  "managePolicyUrl": "https://example.com/policies/726100029424/manage"
-},
-{
-  "policyNumber": "726100029425",
-  "policyStart": "2026-11-05",
-  "policyEnd": "2027-11-04",
-  "status": "Active",
-  "destinations": [{ "code": "CH", "name": "Switzerland" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 500,
-  "maxTripDuration": 90,
-  "pdsUrl": "https://example.com/policies/726100029425/pds",
-  "certificateUrl": "https://example.com/policies/726100029425/certificate",
-  "claimUrl": "https://example.com/claims/726100029425",
-  "managePolicyUrl": "https://example.com/policies/726100029425/manage"
-},
-{
-  "policyNumber": "726100029426",
-  "policyStart": "2026-11-18",
-  "policyEnd": "2026-11-30",
-  "status": "Active",
-  "destinations": [{ "code": "AE", "name": "United Arab Emirates" }],
-  "type": "Single Trip",
-  "planName": "International Comprehensive",
-  "excess": 150,
-  "pdsUrl": "https://example.com/policies/726100029426/pds",
-  "certificateUrl": "https://example.com/policies/726100029426/certificate",
-  "claimUrl": "https://example.com/claims/726100029426",
-  "managePolicyUrl": "https://example.com/policies/726100029426/manage"
-},
-{
-  "policyNumber": "726100029427",
-  "policyStart": "2026-12-01",
-  "policyEnd": "2027-11-30",
-  "status": "Active",
-  "destinations": [{ "code": "VN", "name": "Vietnam" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 250,
-  "maxTripDuration": 60,
-  "pdsUrl": "https://example.com/policies/726100029427/pds",
-  "certificateUrl": "https://example.com/policies/726100029427/certificate",
-  "claimUrl": "https://example.com/claims/726100029427",
-  "managePolicyUrl": "https://example.com/policies/726100029427/manage"
-},
-{
-  "policyNumber": "726100029428",
-  "policyStart": "2026-12-10",
-  "policyEnd": "2026-12-24",
-  "status": "Active",
-  "destinations": [{ "code": "KR", "name": "South Korea" }],
-  "type": "Single Trip",
-  "planName": "Adventure Cover",
-  "excess": 100,
-  "pdsUrl": "https://example.com/policies/726100029428/pds",
-  "certificateUrl": "https://example.com/policies/726100029428/certificate",
-  "claimUrl": "https://example.com/claims/726100029428",
-  "managePolicyUrl": "https://example.com/policies/726100029428/manage"
-},
-{
-  "policyNumber": "726100029429",
-  "policyStart": "2027-01-05",
-  "policyEnd": "2028-01-04",
-  "status": "Active",
-  "destinations": [{ "code": "NL", "name": "Netherlands" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 200,
-  "maxTripDuration": 30,
-  "pdsUrl": "https://example.com/policies/726100029429/pds",
-  "certificateUrl": "https://example.com/policies/726100029429/certificate",
-  "claimUrl": "https://example.com/claims/726100029429",
-  "managePolicyUrl": "https://example.com/policies/726100029429/manage"
-},
-{
-  "policyNumber": "726100029430",
-  "policyStart": "2027-01-20",
-  "policyEnd": "2027-02-02",
-  "status": "Active",
-  "destinations": [{ "code": "SE", "name": "Sweden" }],
-  "type": "Single Trip",
-  "planName": "International Comprehensive",
-  "excess": 250,
-  "pdsUrl": "https://example.com/policies/726100029430/pds",
-  "certificateUrl": "https://example.com/policies/726100029430/certificate",
-  "claimUrl": "https://example.com/claims/726100029430",
-  "managePolicyUrl": "https://example.com/policies/726100029430/manage"
-},
-{
-  "policyNumber": "726100029431",
-  "policyStart": "2026-02-10",
-  "policyEnd": "2026-02-22",
-  "status": "Expired",
-  "destinations": [{ "code": "PT", "name": "Portugal" }],
-  "type": "Single Trip",
-  "planName": "International Comprehensive",
-  "excess": 100,
-  "pdsUrl": "https://example.com/policies/726100029431/pds",
-  "certificateUrl": "https://example.com/policies/726100029431/certificate",
-  "claimUrl": "https://example.com/claims/726100029431",
-  "managePolicyUrl": "https://example.com/policies/726100029431/manage"
-},
-{
-  "policyNumber": "726100029432",
-  "policyStart": "2026-03-01",
-  "policyEnd": "2027-02-28",
-  "status": "Expired",
-  "destinations": [{ "code": "AT", "name": "Austria" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 250,
-  "maxTripDuration": 45,
-  "pdsUrl": "https://example.com/policies/726100029432/pds",
-  "certificateUrl": "https://example.com/policies/726100029432/certificate",
-  "claimUrl": "https://example.com/claims/726100029432",
-  "managePolicyUrl": "https://example.com/policies/726100029432/manage"
-},
-{
-  "policyNumber": "726100029433",
-  "policyStart": "2026-04-14",
-  "policyEnd": "2026-04-28",
-  "status": "Expired",
-  "destinations": [{ "code": "BE", "name": "Belgium" }],
-  "type": "Single Trip",
-  "planName": "Adventure Cover",
-  "excess": 150,
-  "pdsUrl": "https://example.com/policies/726100029433/pds",
-  "certificateUrl": "https://example.com/policies/726100029433/certificate",
-  "claimUrl": "https://example.com/claims/726100029433",
-  "managePolicyUrl": "https://example.com/policies/726100029433/manage"
-},
-{
-  "policyNumber": "726100029434",
-  "policyStart": "2026-05-01",
-  "policyEnd": "2027-04-30",
-  "status": "Expired",
-  "destinations": [{ "code": "DK", "name": "Denmark" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 500,
-  "maxTripDuration": 90,
-  "pdsUrl": "https://example.com/policies/726100029434/pds",
-  "certificateUrl": "https://example.com/policies/726100029434/certificate",
-  "claimUrl": "https://example.com/claims/726100029434",
-  "managePolicyUrl": "https://example.com/policies/726100029434/manage"
-},
-{
-  "policyNumber": "726100029435",
-  "policyStart": "2026-06-08",
-  "policyEnd": "2026-06-21",
-  "status": "Expired",
-  "destinations": [{ "code": "NO", "name": "Norway" }],
-  "type": "Single Trip",
-  "planName": "International Comprehensive",
-  "excess": 200,
-  "pdsUrl": "https://example.com/policies/726100029435/pds",
-  "certificateUrl": "https://example.com/policies/726100029435/certificate",
-  "claimUrl": "https://example.com/claims/726100029435",
-  "managePolicyUrl": "https://example.com/policies/726100029435/manage"
-},
-{
-  "policyNumber": "726100029436",
-  "policyStart": "2026-07-03",
-  "policyEnd": "2026-07-15",
-  "status": "Cancelled",
-  "destinations": [{ "code": "FI", "name": "Finland" }],
-  "type": "Single Trip",
-  "planName": "Adventure Cover",
-  "excess": 100,
-  "pdsUrl": "https://example.com/policies/726100029436/pds",
-  "certificateUrl": "https://example.com/policies/726100029436/certificate",
-  "claimUrl": "https://example.com/claims/726100029436",
-  "managePolicyUrl": "https://example.com/policies/726100029436/manage"
-},
-{
-  "policyNumber": "726100029437",
-  "policyStart": "2026-08-01",
-  "policyEnd": "2027-07-31",
-  "status": "Cancelled",
-  "destinations": [{ "code": "IE", "name": "Ireland" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 250,
-  "maxTripDuration": 60,
-  "pdsUrl": "https://example.com/policies/726100029437/pds",
-  "certificateUrl": "https://example.com/policies/726100029437/certificate",
-  "claimUrl": "https://example.com/claims/726100029437",
-  "managePolicyUrl": "https://example.com/policies/726100029437/manage"
-},
-{
-  "policyNumber": "726100029438",
-  "policyStart": "2026-09-12",
-  "policyEnd": "2026-09-26",
-  "status": "Cancelled",
-  "destinations": [{ "code": "GR", "name": "Greece" }],
-  "type": "Single Trip",
-  "planName": "International Comprehensive",
-  "excess": 150,
-  "pdsUrl": "https://example.com/policies/726100029438/pds",
-  "certificateUrl": "https://example.com/policies/726100029438/certificate",
-  "claimUrl": "https://example.com/claims/726100029438",
-  "managePolicyUrl": "https://example.com/policies/726100029438/manage"
-},
-{
-  "policyNumber": "726100029439",
-  "policyStart": "2026-10-01",
-  "policyEnd": "2027-09-30",
-  "status": "Cancelled",
-  "destinations": [{ "code": "PL", "name": "Poland" }],
-  "type": "Annual",
-  "planName": "Annual Multi-trip",
-  "excess": 500,
-  "maxTripDuration": 30,
-  "pdsUrl": "https://example.com/policies/726100029439/pds",
-  "certificateUrl": "https://example.com/policies/726100029439/certificate",
-  "claimUrl": "https://example.com/claims/726100029439",
-  "managePolicyUrl": "https://example.com/policies/726100029439/manage"
-},
-{
-  "policyNumber": "726100029440",
-  "policyStart": "2026-11-18",
-  "policyEnd": "2026-11-30",
-  "status": "Cancelled",
-  "destinations": [{ "code": "CZ", "name": "Czech Republic" }],
-  "type": "Single Trip",
-  "planName": "Adventure Cover",
-  "excess": 250,
-  "pdsUrl": "https://example.com/policies/726100029440/pds",
-  "certificateUrl": "https://example.com/policies/726100029440/certificate",
-  "claimUrl": "https://example.com/claims/726100029440",
-  "managePolicyUrl": "https://example.com/policies/726100029440/manage"
-}
+  {
+    "policyNumber": "726100029421",
+    "policyStart": "2026-09-02",
+    "policyEnd": "2027-09-01",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 250,
+    "maxTripDuration": 60,
+    "pdsUrl": "https://example.com/policies/726100029421/pds",
+    "certificateUrl": "https://example.com/policies/726100029421/certificate",
+    "primaryTravellerFirstname": "Rahul",
+    "primaryTravellerLastName": "Sharma",
+    "primaryTravellerPhoneNumber": "9876543210"
+  },
+  {
+    "policyNumber": "726100029422",
+    "policyStart": "2026-09-15",
+    "policyEnd": "2026-09-28",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "ES",
+        "name": "Spain"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "International Comprehensive",
+    "excess": 100,
+    "pdsUrl": "https://example.com/policies/726100029422/pds",
+    "certificateUrl": "https://example.com/policies/726100029422/certificate",
+    "primaryTravellerFirstname": "Priya",
+    "primaryTravellerLastName": "Verma",
+    "primaryTravellerPhoneNumber": "9876543211"
+  },
+  {
+    "policyNumber": "726100029423",
+    "policyStart": "2026-10-01",
+    "policyEnd": "2027-09-30",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 150,
+    "maxTripDuration": 45,
+    "pdsUrl": "https://example.com/policies/726100029423/pds",
+    "certificateUrl": "https://example.com/policies/726100029423/certificate",
+    "primaryTravellerFirstname": "Amit",
+    "primaryTravellerLastName": "Gupta",
+    "primaryTravellerPhoneNumber": "9876543212"
+  },
+  {
+    "policyNumber": "726100029424",
+    "policyStart": "2026-10-12",
+    "policyEnd": "2026-10-25",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "MY",
+        "name": "Malaysia"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "Adventure Cover",
+    "excess": 200,
+    "pdsUrl": "https://example.com/policies/726100029424/pds",
+    "certificateUrl": "https://example.com/policies/726100029424/certificate",
+    "primaryTravellerFirstname": "Neha",
+    "primaryTravellerLastName": "Singh",
+    "primaryTravellerPhoneNumber": "9876543213"
+  },
+  {
+    "policyNumber": "726100029425",
+    "policyStart": "2026-11-05",
+    "policyEnd": "2027-11-04",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 500,
+    "maxTripDuration": 90,
+    "pdsUrl": "https://example.com/policies/726100029425/pds",
+    "certificateUrl": "https://example.com/policies/726100029425/certificate",
+    "primaryTravellerFirstname": "Arjun",
+    "primaryTravellerLastName": "Mehta",
+    "primaryTravellerPhoneNumber": "9876543214"
+  },
+  {
+    "policyNumber": "726100029426",
+    "policyStart": "2026-11-18",
+    "policyEnd": "2026-11-30",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "AE",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "International Comprehensive",
+    "excess": 150,
+    "pdsUrl": "https://example.com/policies/726100029426/pds",
+    "certificateUrl": "https://example.com/policies/726100029426/certificate",
+    "primaryTravellerFirstname": "Rahul",
+    "primaryTravellerLastName": "Sharma",
+    "primaryTravellerPhoneNumber": "9876543210"
+  },
+  {
+    "policyNumber": "726100029427",
+    "policyStart": "2026-12-01",
+    "policyEnd": "2027-11-30",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "VN",
+        "name": "Vietnam"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 250,
+    "maxTripDuration": 60,
+    "pdsUrl": "https://example.com/policies/726100029427/pds",
+    "certificateUrl": "https://example.com/policies/726100029427/certificate",
+    "primaryTravellerFirstname": "Priya",
+    "primaryTravellerLastName": "Verma",
+    "primaryTravellerPhoneNumber": "9876543211"
+  },
+  {
+    "policyNumber": "726100029428",
+    "policyStart": "2026-12-10",
+    "policyEnd": "2026-12-24",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "Adventure Cover",
+    "excess": 100,
+    "pdsUrl": "https://example.com/policies/726100029428/pds",
+    "certificateUrl": "https://example.com/policies/726100029428/certificate",
+    "primaryTravellerFirstname": "Amit",
+    "primaryTravellerLastName": "Gupta",
+    "primaryTravellerPhoneNumber": "9876543212"
+  },
+  {
+    "policyNumber": "726100029429",
+    "policyStart": "2027-01-05",
+    "policyEnd": "2028-01-04",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 200,
+    "maxTripDuration": 30,
+    "pdsUrl": "https://example.com/policies/726100029429/pds",
+    "certificateUrl": "https://example.com/policies/726100029429/certificate",
+    "primaryTravellerFirstname": "Neha",
+    "primaryTravellerLastName": "Singh",
+    "primaryTravellerPhoneNumber": "9876543213"
+  },
+  {
+    "policyNumber": "726100029430",
+    "policyStart": "2027-01-20",
+    "policyEnd": "2027-02-02",
+    "status": "Active",
+    "destinations": [
+      {
+        "code": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "International Comprehensive",
+    "excess": 250,
+    "pdsUrl": "https://example.com/policies/726100029430/pds",
+    "certificateUrl": "https://example.com/policies/726100029430/certificate",
+    "primaryTravellerFirstname": "Arjun",
+    "primaryTravellerLastName": "Mehta",
+    "primaryTravellerPhoneNumber": "9876543214"
+  },
+  {
+    "policyNumber": "726100029431",
+    "policyStart": "2026-02-10",
+    "policyEnd": "2026-02-22",
+    "status": "Expired",
+    "destinations": [
+      {
+        "code": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "International Comprehensive",
+    "excess": 100,
+    "pdsUrl": "https://example.com/policies/726100029431/pds",
+    "certificateUrl": "https://example.com/policies/726100029431/certificate",
+    "primaryTravellerFirstname": "Rahul",
+    "primaryTravellerLastName": "Sharma",
+    "primaryTravellerPhoneNumber": "9876543210"
+  },
+  {
+    "policyNumber": "726100029432",
+    "policyStart": "2026-03-01",
+    "policyEnd": "2027-02-28",
+    "status": "Expired",
+    "destinations": [
+      {
+        "code": "AT",
+        "name": "Austria"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 250,
+    "maxTripDuration": 45,
+    "pdsUrl": "https://example.com/policies/726100029432/pds",
+    "certificateUrl": "https://example.com/policies/726100029432/certificate",
+    "primaryTravellerFirstname": "Priya",
+    "primaryTravellerLastName": "Verma",
+    "primaryTravellerPhoneNumber": "9876543211"
+  },
+  {
+    "policyNumber": "726100029433",
+    "policyStart": "2026-04-14",
+    "policyEnd": "2026-04-28",
+    "status": "Expired",
+    "destinations": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "Adventure Cover",
+    "excess": 150,
+    "pdsUrl": "https://example.com/policies/726100029433/pds",
+    "certificateUrl": "https://example.com/policies/726100029433/certificate",
+    "primaryTravellerFirstname": "Amit",
+    "primaryTravellerLastName": "Gupta",
+    "primaryTravellerPhoneNumber": "9876543212"
+  },
+  {
+    "policyNumber": "726100029434",
+    "policyStart": "2026-05-01",
+    "policyEnd": "2027-04-30",
+    "status": "Expired",
+    "destinations": [
+      {
+        "code": "DK",
+        "name": "Denmark"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 500,
+    "maxTripDuration": 90,
+    "pdsUrl": "https://example.com/policies/726100029434/pds",
+    "certificateUrl": "https://example.com/policies/726100029434/certificate",
+    "primaryTravellerFirstname": "Neha",
+    "primaryTravellerLastName": "Singh",
+    "primaryTravellerPhoneNumber": "9876543213"
+  },
+  {
+    "policyNumber": "726100029435",
+    "policyStart": "2026-06-08",
+    "policyEnd": "2026-06-21",
+    "status": "Expired",
+    "destinations": [
+      {
+        "code": "NO",
+        "name": "Norway"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "International Comprehensive",
+    "excess": 200,
+    "pdsUrl": "https://example.com/policies/726100029435/pds",
+    "certificateUrl": "https://example.com/policies/726100029435/certificate",
+    "primaryTravellerFirstname": "Arjun",
+    "primaryTravellerLastName": "Mehta",
+    "primaryTravellerPhoneNumber": "9876543214"
+  },
+  {
+    "policyNumber": "726100029436",
+    "policyStart": "2026-07-03",
+    "policyEnd": "2026-07-15",
+    "status": "Cancelled",
+    "destinations": [
+      {
+        "code": "FI",
+        "name": "Finland"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "Adventure Cover",
+    "excess": 100,
+    "pdsUrl": "https://example.com/policies/726100029436/pds",
+    "certificateUrl": "https://example.com/policies/726100029436/certificate",
+    "primaryTravellerFirstname": "Rahul",
+    "primaryTravellerLastName": "Sharma",
+    "primaryTravellerPhoneNumber": "9876543210"
+  },
+  {
+    "policyNumber": "726100029437",
+    "policyStart": "2026-08-01",
+    "policyEnd": "2027-07-31",
+    "status": "Cancelled",
+    "destinations": [
+      {
+        "code": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 250,
+    "maxTripDuration": 60,
+    "pdsUrl": "https://example.com/policies/726100029437/pds",
+    "certificateUrl": "https://example.com/policies/726100029437/certificate",
+    "primaryTravellerFirstname": "Priya",
+    "primaryTravellerLastName": "Verma",
+    "primaryTravellerPhoneNumber": "9876543211"
+  },
+  {
+    "policyNumber": "726100029438",
+    "policyStart": "2026-09-12",
+    "policyEnd": "2026-09-26",
+    "status": "Cancelled",
+    "destinations": [
+      {
+        "code": "GR",
+        "name": "Greece"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "International Comprehensive",
+    "excess": 150,
+    "pdsUrl": "https://example.com/policies/726100029438/pds",
+    "certificateUrl": "https://example.com/policies/726100029438/certificate",
+    "primaryTravellerFirstname": "Amit",
+    "primaryTravellerLastName": "Gupta",
+    "primaryTravellerPhoneNumber": "9876543212"
+  },
+  {
+    "policyNumber": "726100029439",
+    "policyStart": "2026-10-01",
+    "policyEnd": "2027-09-30",
+    "status": "Cancelled",
+    "destinations": [
+      {
+        "code": "PL",
+        "name": "Poland"
+      }
+    ],
+    "type": "Annual",
+    "planName": "Annual Multi-trip",
+    "excess": 500,
+    "maxTripDuration": 30,
+    "pdsUrl": "https://example.com/policies/726100029439/pds",
+    "certificateUrl": "https://example.com/policies/726100029439/certificate",
+    "primaryTravellerFirstname": "Neha",
+    "primaryTravellerLastName": "Singh",
+    "primaryTravellerPhoneNumber": "9876543213"
+  },
+  {
+    "policyNumber": "726100029440",
+    "policyStart": "2026-11-18",
+    "policyEnd": "2026-11-30",
+    "status": "Cancelled",
+    "destinations": [
+      {
+        "code": "CZ",
+        "name": "Czech Republic"
+      }
+    ],
+    "type": "Single Trip",
+    "planName": "Adventure Cover",
+    "excess": 250,
+    "pdsUrl": "https://example.com/policies/726100029440/pds",
+    "certificateUrl": "https://example.com/policies/726100029440/certificate",
+    "primaryTravellerFirstname": "Arjun",
+    "primaryTravellerLastName": "Mehta",
+    "primaryTravellerPhoneNumber": "9876543214"
+  }
 ]

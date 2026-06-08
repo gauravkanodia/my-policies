@@ -9,20 +9,16 @@ export const usePolicies = () => {
 
   const loadPolicies = async () => {
     try {
-      setLoading(true);
-      setError(null);
-
-      // we will replace this with actual API call for now we will use the local JSON file
-      await new Promise((resolve) => {
-        setTimeout(resolve, 500);
-      });
+      // Future API call
+      // const response = await fetch("/api/policies");
+      // const data = await response.json();
 
       setPolicies(policiesJson as Policy[]);
     } catch (err) {
       setError(
         err instanceof Error
           ? err.message
-          : "Something went wrong"
+          : "Something went wrong",
       );
     } finally {
       setLoading(false);
@@ -30,6 +26,7 @@ export const usePolicies = () => {
   };
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     loadPolicies();
   }, []);
 
